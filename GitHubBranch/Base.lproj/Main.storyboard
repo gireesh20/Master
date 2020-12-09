@@ -28,7 +28,8 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="19"/>
                                 <state key="normal" title="Submit"/>
                                 <connections>
-                                    <segue destination="K1R-R5-nnK" kind="show" id="7cz-8Z-zW8"/>
+                                    <action selector="sendaction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RWj-r5-8h3"/>
+                                    <segue destination="K1R-R5-nnK" kind="show" id="soC-Dt-2Pt"/>
                                 </connections>
                             </button>
                         </subviews>

@@ -16,7 +16,9 @@ class ViewController: UIViewController {
         
         print("small changes")
     }
-
-
+    @IBAction func sendaction(_ sender: Any) {
+        
+        print("navigation Controller")
+    }
 }
 
