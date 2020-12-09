@@ -21,7 +21,9 @@ class ViewController: UIViewController {
         print("branch changes")
         
     }
-
-
+    @IBAction func sendaction(_ sender: Any) {
+        
+        print("navigation Controller")
+    }
 }
 
