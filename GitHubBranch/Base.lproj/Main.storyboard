@@ -42,10 +42,10 @@
             </objects>
             <point key="canvasLocation" x="1047.8260869565217" y="137.94642857142856"/>
         </scene>
-        <!--View Controller-->
+        <!--Result View Controller-->
         <scene sceneID="h9g-14-Vb0">
             <objects>
-                <viewController id="K1R-R5-nnK" sceneMemberID="viewController">
+                <viewController id="K1R-R5-nnK" customClass="ResultViewController" customModule="GitHubBranch" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mUm-bQ-ayP">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
